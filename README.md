@@ -16,7 +16,8 @@ The purpose of this project is to use jupyter and seaborn to describe and analys
 The tips dataset is a well known dataset consisting of information recorded by a waiter about each tip he received over a period of a few months working in one restaurant. This data consisted of 7 variables (Total bill, Tip, Gender(Sex), Smoker(Y/N), Day, Time and Size (Party size)). This dataset has been used as a good basis to learn and understand statistics and analysis of data. The raw data collected for the tips dataset can be seen [here](/Data/tips.csv).
 
 To best explain and discuss the tips dataset, please follow the below link to a jupyter notebook
-[tips dataset](https://nbviewer.jupyter.org/github/BarryClarke/Fundamentals---Assessment-2019/blob/master/Tips%20dataset.ipynb)
+[tips dataset jupyter notebook](https://nbviewer.jupyter.org/github/BarryClarke/Fundamentals---Assessment-2019/blob/master/Tips%20dataset.ipynb)
+
 *Note: as this notebook contains certain text formatting that is not loading into GitHub, nbviewer is the best location to open this file
 
 
