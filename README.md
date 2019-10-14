@@ -18,7 +18,13 @@ The tips dataset is a well known dataset consisting of information recorded by a
 To best explain and discuss the tips dataset, please follow the below link to a jupyter notebook
 [tips dataset jupyter notebook](https://nbviewer.jupyter.org/github/BarryClarke/Fundamentals---Assessment-2019/blob/master/Tips%20dataset.ipynb)
 
-*Note: as this notebook contains certain text formatting that is not loading into GitHub, nbviewer is the best location to open this file
+*Note: As this notebook contains certain text formatting that is not loading into GitHub, nbviewer is the best location to open this file.
+
+Firstly, we look at the use of the pandas package to present and analyse the data. Pandas offers some very useful tools that can help manipulate and present the data in a meaningful manner. For instance, in the jupyter noetbook, two expressions of the data can be vewed through the use of the pandas and matplotlib packages. These plots give the viewer a good general idea as to the relationship between the total bill and the tip in each record of the tips dataset. Using this, the analyst can make general statements about the data. For example, generally speaking, the average tip varies bwteen 10% and 25%. Or, there is 1 outlier where the customer paid a tip of 70% of the total bill. These are all good starting points for analysing data 
+
+A second package in Python that allows for a deeper descriptive statistical analysis is the Seaborn package. Typical uses of the seaborn package are used on the tips dataset in the notebook 
+
+
 
 
 
