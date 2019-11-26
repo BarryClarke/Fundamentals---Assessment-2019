@@ -38,7 +38,7 @@ Regression is a statistical method used to best fit a line to set of data points
 In Addition to the statistical summary and analyses of the relationship between the total bill and tip, the dataset is further examined and analysed using various pandas and seaborn functions to gain further insight other variables in the dataset
 
 ## References
-[1]. https://seaborn.pydata.org/ - Introduction to the seaborn package
+[1]. https://seaborn.pydata.org/ - Introduction to the seaborn package<br>
 In creating the jupyter notebook, the below references were used
 1. https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb#2.4.2.2-Table-of-Contents-Support
 2. https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib 
