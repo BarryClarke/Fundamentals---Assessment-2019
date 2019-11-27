@@ -27,27 +27,29 @@ To view the source code in jupyter notebook, please follow the below instruction
 ## Description of the dataset
 The tips dataset is a well known dataset consisting of information recorded by a waiter about each tip received over a period of a few months working in one restaurant. This data consists of 7 variables (Total bill, Tip, Gender(Sex), Smoker(Y/N), Day, Time and Size (Party size)). This dataset has been used as a good basis to learn and understand statistics and analysis of data. The raw data collected for the tips dataset can be seen [here](/Data/tips.csv).
 
-Firstly, we look at the use of the pandas package to present and analyse the data. Pandas offers very useful tools that can help manipulate and present the data in a meaningful manner. For instance, in the jupyter noetbook, two expressions of the data can be viewed through the use of the pandas and matplotlib packages. These tables and plots give the viewer a good general idea as to the relationship between the total bill and the tip in each record of the tips dataset. Using this, the analyst can make observations about the data. For example, generally speaking, the average tip varies bewteen 10% and 25%. Or, there is 1 outlier where the customer paid a tip of 70% of the total bill. These are all good starting points for analysing data 
+Firstly, the notebook looks at the use of the pandas package to present and analyse the data. Pandas offers very useful tools that can help manipulate and present the data in a meaningful manner. For instance, in the jupyter noetbook, two expressions of the data can be viewed through the use of the pandas and matplotlib packages. These tables and plots give the viewer a good general idea as to the relationship between the total bill and the tip in each record of the tips dataset. Using this, the analyst can make observations about the data. For example, generally speaking, the average tip varies bewteen 10% and 25%. Or, there is 1 outlier where the customer paid a tip of 70% of the total bill. These are all good starting points for analysing data 
 
 A second package in Python that allows for descriptive statistical analysis is the Seaborn package. It is built on top of matplotlib and closely integrated with pandas. Used in conjunction with Matplotlib and pandas, Seaborn offers greater plotting options and styling, which can all improve the visuaization and understanding of the data. Typical uses of the seaborn package are used on the tips dataset in the notebook 
 
 ## Regression
 Regression is a statistical method used to best fit a line to set of data points. In the notebook regression is performed and plotted in relation to total amoount and tip to best understand if a relationship exists between the two variables and how clear this relationship is.
 
-## Further analyses
+## Further analysis
 In Addition to the statistical summary and analyses of the relationship between the total bill and tip, the dataset is further examined and analysed using various pandas and seaborn functions to gain further insight other variables in the dataset
 
 ## References
 [1]. https://seaborn.pydata.org/ - Introduction to the seaborn package<br>
+
 In creating the jupyter notebook, the below references were used
 1. https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb#2.4.2.2-Table-of-Contents-Support
 2. https://stackoverflow.com/questions/332289/how-do-you-change-the-size-of-figures-drawn-with-matplotlib 
 3. https://stackoverflow.com/questions/56095446/pandas-plot-bar-show-every-nth-xlabel
-4. https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
-5. https://seaborn.pydata.org/tutorial/regression.html#regression-tutorial
-6. https://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot
-7. https://seaborn.pydata.org/generated/seaborn.violinplot.html
-8. https://devarea.com/python-machine-learning-example-linear-regression/#.XdwgSej7Q2w
+4. https://gist.github.com/makexu93/ceeadeec3fe691057fd64452bb969b43
+5. https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+6. https://seaborn.pydata.org/tutorial/regression.html#regression-tutorial
+7. https://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot
+8. https://seaborn.pydata.org/generated/seaborn.violinplot.html
+9. https://devarea.com/python-machine-learning-example-linear-regression/#.XdwgSej7Q2w
 
 
 
